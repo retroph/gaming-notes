@@ -1,0 +1,5 @@
+* Retroph's Gaming Notes
+
+Welcome to my miscellaneous video games and speedrunning notes.
+
+*TODO* Write more comprehensive =README=
